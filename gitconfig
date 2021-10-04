@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = yasserh@live.be
+	name = mateo huylebroeck
